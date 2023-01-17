@@ -5,4 +5,5 @@ import { square, diag } from './lib.js';
   console.log(diag(4, 3)); // 5
   console.log(diag(5, 2)); // 6
   console.log(diag(4, 3)); // 5
+console.log(diag(4, 3)); // 5 
 })()
